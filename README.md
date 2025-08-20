@@ -1,7 +1,7 @@
 # Hi there, I'm SanttannaV 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/SanttannaV/Santannav/blob/db346f0ea03a6100870fbd8eb12d4e1f988f7247/Dark%20Blue%20Purple%20White%20Tactical%20Gaming%20Twitch%20Banner%20(2).png" alt="cover" />
+  <img width="100%" src="Dark Blue Purple White Tactical Gaming Twitch Banner (2).png" alt="cover" />
 </div>
 
 
